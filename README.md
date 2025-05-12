@@ -7,6 +7,7 @@
 🔬 Trabalhos recentes:
 - 🫁 Projeto de Previsão de Câncer de Pulmão com KMeans e Random Forest
 - 📈 Análises exploratórias de dados de saúde e bem-estar
+- 
 
 📊 **Estatísticas GitHub**  
 ![Emmanoel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanoelB03&show_icons=true&theme=default)
@@ -28,3 +29,5 @@
 ![Sklearn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
