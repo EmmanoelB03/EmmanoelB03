@@ -7,7 +7,7 @@
 🔬 Trabalhos recentes:
 - 🫁 Projeto de Previsão de Câncer de Pulmão com KMeans e Random Forest
 - 📈 Análises exploratórias de dados de saúde e bem-estar
-- 
+  
 
 ## 🌱 No Que Estou Focando Agora
 
