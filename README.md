@@ -68,8 +68,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=EmmanoelB03&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
 ### ⚡ Minha Atividade Recente no GitHub
-<!--START: activity-->
-<!--END: activity-->
+<!-- activity:START -->
+<!-- activity:END -->
 ---
 
 ### 📫 Vamos Conectar!
