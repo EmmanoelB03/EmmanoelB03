@@ -11,7 +11,7 @@
 -   **🩺 Projeto de Iniciação Científica (FACEPE / CISAM-UPE):**
     -   *Descrição:* Desenvolvimento de um sistema de IA para apoio ao pré-diagnóstico em teleconsultas no Hospital CISAM. A solução utiliza um Modelo de Linguagem (MedGemma) executado localmente com Ollama e Docker, garantindo a segurança dos dados (LGPD) e otimizando o fluxo de atendimento.
     -   *Tecnologias:* Python, Docker, Ollama, SvelteKit, TypeScript, Open WebUI, Shell Script.
-    -   *[Link para artigo ou repositório, se aplicável](https://github.com/compet-cisam)*
+    -   *[Link para o repositório](https://github.com/compet-cisam)*
 
 -   **🫁 Projeto de Previsão de Câncer de Pulmão:**
     -   *Descrição:* Utilização de KMeans para clusterização e Random Forest para classificação de pacientes.
