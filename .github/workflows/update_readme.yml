@@ -21,3 +21,4 @@ jobs:
           commit_message: "chore: update recent activity"
           max_post_count: 5
           feed_list: "https://github.com/EmmanoelB03.atom"
+
