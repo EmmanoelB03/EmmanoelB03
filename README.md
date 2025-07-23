@@ -67,7 +67,10 @@
 ![Emmanoel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanoelB03&show_icons=true&theme=dracula&hide_border=true&count_private=true)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=EmmanoelB03&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
-### ⚡ Meus Commits Recentes
+### ⚡ Minha Atividade Recente no GitHub
+<!--START: activity-->
+<!--END: activity-->
+---
 
 ### 📫 Vamos Conectar!
 
