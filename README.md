@@ -69,11 +69,11 @@
 
 ### ⚡ Minha Atividade Recente no GitHub
 <!-- activity:START -->
-- [EmmanoelB03 pushed to main in compet-cisam/interface](https://github.com/compet-cisam/interface/compare/b64a7a3467...4b0ad1f9c3)
-- [EmmanoelB03 deleted branch baseDeConhecimento at compet-cisam/interface](https://github.com/)
-- [EmmanoelB03 deleted branch newDockerCompose at compet-cisam/interface](https://github.com/)
-- [EmmanoelB03 pushed to main in compet-cisam/interface](https://github.com/compet-cisam/interface/compare/06d6c182a7...b64a7a3467)
-- [EmmanoelB03 merged a pull request in compet-cisam/interface](https://github.com/compet-cisam/interface/pull/6)
+- [EmmanoelB03 pushed to main in compet-cisam/interface](https://github.com/compet-cisam/interface/compare/a9ec08cbe3...53e3afdea8)
+- [EmmanoelB03 created a branch addKokoroToDockerCompose in compet-cisam/interface](https://github.com/compet-cisam/interface/compare/addKokoroToDockerCompose)
+- [EmmanoelB03 pushed to main in compet-cisam/interface](https://github.com/compet-cisam/interface/compare/600e6e0f4d...a9ec08cbe3)
+- [EmmanoelB03 pushed to addPipelines in compet-cisam/interface](https://github.com/compet-cisam/interface/compare/600e6e0f4d...a9ec08cbe3)
+- [EmmanoelB03 created a branch addPipelines in compet-cisam/interface](https://github.com/compet-cisam/interface/compare/addPipelines)
 <!-- activity:END -->
 ---
 
