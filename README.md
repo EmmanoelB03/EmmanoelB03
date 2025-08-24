@@ -69,11 +69,11 @@
 
 ### ⚡ Minha Atividade Recente no GitHub
 <!-- activity:START -->
-- [EmmanoelB03 opened a pull request in interface](https://github.com/compet-cisam/interface/pull/8)
+- [EmmanoelB03 pushed interface](https://github.com/compet-cisam/interface/compare/d7d14825a9...9bdba264cd)
+- [EmmanoelB03 contributed to compet-cisam/interface](https://github.com/compet-cisam/interface/pull/8)
 - [EmmanoelB03 created a branch](https://github.com/compet-cisam/interface/compare/0000000000...d4939e6d33)
 - [EmmanoelB03 pushed interface](https://github.com/compet-cisam/interface/compare/4a1ec61b2f...d7d14825a9)
 - [EmmanoelB03 pushed interface](https://github.com/compet-cisam/interface/compare/c18f5afbca...4a1ec61b2f)
-- [EmmanoelB03 pushed interface](https://github.com/compet-cisam/interface/compare/ea58440aa0...c18f5afbca)
 <!-- activity:END -->
 ---
 
