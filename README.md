@@ -69,11 +69,11 @@
 
 ### ⚡ Minha Atividade Recente no GitHub
 <!-- activity:START -->
+- [EmmanoelB03 starred reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
 - [EmmanoelB03 pushed knowledge](https://github.com/EmmanoelB03/knowledge/compare/595cc46be9...1db032fc75)
 - [EmmanoelB03 pushed knowledge](https://github.com/EmmanoelB03/knowledge/compare/ade8421743...595cc46be9)
 - [EmmanoelB03 pushed knowledge](https://github.com/EmmanoelB03/knowledge/compare/4468730768...ade8421743)
 - [EmmanoelB03 created a branch](https://github.com/EmmanoelB03/knowledge/compare/0000000000...4468730768)
-- [EmmanoelB03 pushed interface](https://github.com/compet-cisam/interface/compare/84e496b3e8...1556107a83)
 <!-- activity:END -->
 ---
 
