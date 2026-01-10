@@ -71,9 +71,6 @@
 <!-- activity:START -->
 - [EmmanoelB03 pushed text_to_bpmn](https://github.com/EmmanoelB03/text_to_bpmn/compare/2207e9b271...a5fbf464d9)
 - [EmmanoelB03 starred reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
-- [EmmanoelB03 pushed knowledge](https://github.com/EmmanoelB03/knowledge/compare/595cc46be9...1db032fc75)
-- [EmmanoelB03 pushed knowledge](https://github.com/EmmanoelB03/knowledge/compare/ade8421743...595cc46be9)
-- [EmmanoelB03 pushed knowledge](https://github.com/EmmanoelB03/knowledge/compare/4468730768...ade8421743)
 <!-- activity:END -->
 ---
 
