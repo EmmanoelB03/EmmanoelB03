@@ -1,90 +1,151 @@
 # 👋 Olá, eu sou Emmanoel Barbosa!
 
-🎓 Estudante de Ciência de Dados apaixonado por IA, aprendizado de máquina e visualização de dados.
+🎓 Estudante de **Engenharia de Computação** na **Universidade de Pernambuco (UPE)**, apaixonado por Inteligência Artificial, Machine Learning e Ciência de Dados.
 
-💻 Desenvolvo projetos com Python, focando em análise de dados, machine learning e notebooks interativos.
+💻 Desenvolvo soluções com Python, TypeScript e Java, focando em aplicações de IA para saúde, análise de dados e automação.
 
----
-
-### 🔬 Trabalhos Recentes
-
--   **🩺 Projeto de Iniciação Científica (FACEPE / CISAM-UPE):**
-    -   *Descrição:* Desenvolvimento de um sistema de IA para apoio ao pré-diagnóstico em teleconsultas no Hospital CISAM. A solução utiliza um Modelo de Linguagem (MedGemma) executado localmente com Ollama e Docker, garantindo a segurança dos dados (LGPD) e otimizando o fluxo de atendimento.
-    -   *Tecnologias:* Python, Docker, Ollama, SvelteKit, TypeScript, Open WebUI, Shell Script.
-    -   *[Link para o repositório](https://github.com/compet-cisam)*
-
--   **🫁 Projeto de Previsão de Câncer de Pulmão:**
-    -   *Descrição:* Utilização de KMeans para clusterização e Random Forest para classificação de pacientes.
-    -   *Tecnologias:* Scikit-learn, Pandas, NumPy.
-    -   *[Link para o repositório](https://github.com/EmmanoelB03/ModeloCancerPulmonar)*
+📍 Recife, Pernambuco, Brasil
 
 ---
 
-### 🌱 No Que Estou Focando Agora
+## 🔬 Projetos em Destaque
 
-* Aprofundando conhecimentos em técnicas avançadas de **Machine Learning** (Deep Learning, NLP).
-* Explorando ferramentas de **MLOps** para otimizar o ciclo de vida de modelos.
-* Buscando oportunidades de colaboração em projetos **open-source** ou desafios de Data Science.
+### 🩺 **Sistema de IA para Apoio Diagnóstico - CISAM/UPE** 
+*Projeto de Iniciação Científica financiado pela FACEPE*
 
----
+Desenvolvimento de um sistema de inteligência artificial para apoio ao pré-diagnóstico em teleconsultas no Hospital CISAM, especializado em Saúde da Mulher e Neonatologia.
 
-### 🛠️ Linguagens e Ferramentas
+**Destaques Técnicos:**
+- Implementação local de LLM (MedGemma) com Ollama para garantir privacidade (LGPD)
+- Interface web customizada baseada em Open WebUI
+- Arquitetura containerizada com Docker para deploy seguro
+- Anonimização automática de dados clínicos
 
-**Linguagens de Programação:**
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-</p>
+**Stack:** Python · Docker · Ollama · SvelteKit · TypeScript · Shell Script
 
-**Desenvolvimento Web:**
-<p align="left">
-  <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" />
-</p>
-
-**Data Science & Machine Learning:**
-<p align="left">
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/-Seaborn-150458?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn" />
-</p>
-
-**Controle de Versão:**
-<p align="left">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+🔗 [Repositório da Interface](https://github.com/compet-cisam/interface)
 
 ---
 
-### 📊 Minhas Estatísticas e Atividades
+### 🫁 **Modelo de Previsão de Câncer Pulmonar**
 
-![Emmanoel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanoelB03&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EmmanoelB03&theme=dracula&hide_border=true" alt="GitHub Streak" />
+Sistema de machine learning para classificação de pacientes com potencial diagnóstico de câncer pulmonar.
 
-### ⚡ Minha Atividade Recente no GitHub
-<!-- activity:START -->
-- [EmmanoelB03 pushed llmAndStardewValley](https://github.com/EmmanoelB03/llmAndStardewValley/compare/a60b6ce47a...9cd6060311)
-- [EmmanoelB03 pushed llmAndStardewValley](https://github.com/EmmanoelB03/llmAndStardewValley/compare/f2eed689e4...a60b6ce47a)
-- [EmmanoelB03 pushed llmAndStardewValley](https://github.com/EmmanoelB03/llmAndStardewValley/compare/c71b4fcb7e...f2eed689e4)
-- [EmmanoelB03 pushed llmAndStardewValley](https://github.com/EmmanoelB03/llmAndStardewValley/compare/e8d0005d80...c71b4fcb7e)
-- [EmmanoelB03 created a branch](https://github.com/EmmanoelB03/llmAndStardewValley/compare/0000000000...e8d0005d80)
-<!-- activity:END -->
----
+**Técnicas Utilizadas:**
+- Clusterização com K-Means para segmentação de pacientes
+- Classificação com Random Forest
+- Análise exploratória e visualização de dados
 
-### 📫 Vamos Conectar!
+**Stack:** Python · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn
 
-Sinta-se à vontade para entrar em contato. Estou sempre aberto a novas ideias, projetos e oportunidades de colaboração!
-
-* 📧 **Email:** [emmanoel.barbosa03@gmail.com](mailto:emmanoel.barbosa03@gmail.com)
-* 🔗 **LinkedIn:** [Emmanoel Barbosa](https://www.linkedin.com/in/emmanoel-barbosa-599260270/)
+🔗 [Ver Projeto](https://github.com/EmmanoelB03/ModeloCancerPulmonar)
 
 ---
+
+### 🎮 **LLM & Stardew Valley**
+
+Exploração de modelos de linguagem aplicados ao contexto de jogos e interações narrativas.
+
+🔗 [Ver Projeto](https://github.com/EmmanoelB03/llmAndStardewValley)
+
+---
+
+### 📝 **Text to BPMN**
+
+Ferramenta para conversão automática de descrições textuais em diagramas BPMN (Business Process Model and Notation).
+
+**Stack:** Python
+
+🔗 [Ver Projeto](https://github.com/EmmanoelB03/text_to_bpmn)
+
+---
+
+### 🚴 **FedCycle - Sistema de Gerenciamento**
+
+Projeto de aprendizado federado aplicado ao contexto de compartilhamento de bicicletas.
+
+**Stack:** C++
+
+🔗 [Ver Projeto](https://github.com/EmmanoelB03/FedCycle)
+
+---
+
+## 🌱 Atualmente Focado Em
+
+- 🧠 Aprofundamento em **Deep Learning** e **NLP** (Natural Language Processing)
+- ⚙️ Explorando **MLOps** e práticas de deploy de modelos em produção
+- 🏥 Aplicações de IA na área da saúde com foco em privacidade de dados
+- 🤝 Buscando colaborações em projetos **open-source** e desafios de Data Science
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Linguagens de Programação
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+### Desenvolvimento Web
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Data Science & Machine Learning
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmanoelB03&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelB03&layout=compact&theme=dracula&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EmmanoelB03&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EmmanoelB03&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📫 Vamos Conectar!
+
+Estou sempre aberto a discussões sobre IA, Data Science, projetos colaborativos e novas oportunidades!
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanoel.barbosa03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanoel-barbosa-599260270/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmmanoelB03)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EmmanoelB03&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
+</div>
+
 <p align="center">
   <em>"A jornada de mil milhas começa com um único passo." - Lao Tzu</em>
 </p>
