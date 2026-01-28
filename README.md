@@ -103,6 +103,12 @@ Projeto de aprendizado federado aplicado ao contexto de compartilhamento de bici
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
+### Automação
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![SeleniumBase](https://img.shields.io/badge/-SeleniumBase-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
 ### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -120,14 +126,6 @@ Projeto de aprendizado federado aplicado ao contexto de compartilhamento de bici
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EmmanoelB03&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EmmanoelB03&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
