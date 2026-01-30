@@ -42,27 +42,48 @@ Sistema de machine learning para classificação de pacientes com potencial diag
 
 ---
 
-### 🎮 **LLM & Stardew Valley**
+### 🎮 **IA Abigail - Stardew Valley**
 
-Exploração de modelos de linguagem aplicados ao contexto de jogos e interações narrativas.
+Integração de IA generativa com Stardew Valley, permitindo que a personagem Abigail responda dinamicamente em tempo real durante o gameplay.
+
+**Destaques Técnicos:**
+- Monitoramento em tempo real dos logs do SMAPI (Stardew Valley Mod API)
+- Integração com Google Gemini (modelo gemma-3-27b-it) via LangChain
+- Sistema de envio de comandos ao jogo através de Tmux
+- Respostas contextualizadas baseadas na personalidade do personagem
+
+**Stack:** Python · LangChain · Google Generative AI · Tmux
 
 🔗 [Ver Projeto](https://github.com/EmmanoelB03/llmAndStardewValley)
 
 ---
 
-### 📝 **Text to BPMN**
+### 📝 **Gerador de BPMN com IA**
 
-Ferramenta para conversão automática de descrições textuais em diagramas BPMN (Business Process Model and Notation).
+Aplicação web que transforma descrições de processos em texto para diagramas BPMN 2.0 profissionais usando inteligência artificial.
 
-**Stack:** Python
+**Destaques Técnicos:**
+- Conversão automática de texto para diagramas BPMN válidos
+- Interface interativa desenvolvida com Streamlit
+- Integração com Google Gemini via LangChain para geração inteligente
+- Exportação em múltiplos formatos (.bpmn, .json, .svg)
+- Suporte a elementos complexos: decisões, eventos, tarefas e gateways
+
+**Stack:** Python · REST API · Streamlit · LangChain · Google Gemini · bpmn-js
 
 🔗 [Ver Projeto](https://github.com/EmmanoelB03/text_to_bpmn)
 
 ---
 
-### 🚴 **FedCycle - Sistema de Gerenciamento**
+### 🚴 **FedCycle - Aprendizado Federado em Sistemas Embarcados**
 
-Projeto de aprendizado federado aplicado ao contexto de compartilhamento de bicicletas.
+Implementação em C++ focada em pesquisa e aplicações práticas de aprendizado federado em dispositivos IoT e sistemas embarcados.
+
+**Características:**
+- Estrutura modular escrita inteiramente em C++
+- Preparado para ambientes de simulação IoT ou aplicações reais
+- Possibilidade de integração com sensores e redes diversas
+- Explora cenários de federated learning em dispositivos embarcados
 
 **Stack:** C++
 
