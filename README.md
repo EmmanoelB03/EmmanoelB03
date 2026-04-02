@@ -1,10 +1,11 @@
 # 👋 Olá, eu sou Emmanoel Barbosa!
 
-🎓 Estudante de **Engenharia de Computação** na **Universidade de Pernambuco (UPE)**, apaixonado por Inteligência Artificial, Machine Learning e Ciência de Dados.
+🎓 Estudante de Engenharia da Computação na Universidade de Pernambuco (UPE)  
+💻 Analista de Automação de Processos na DTIC (UPE)  
+📍 Recife, Pernambuco, Brasil  
 
-💻 Desenvolvo soluções com Python, TypeScript e Java, focando em aplicações de IA para saúde, análise de dados e automação.
-
-📍 Recife, Pernambuco, Brasil
+## 🚀 Sobre Mim
+Sou apaixonado por Inteligência Artificial, Machine Learning, Data Science e MLOps. Meu foco atual é desenvolver e aplicar IA generativa e automações robustas para resolver problemas reais, otimizando fluxos de trabalho e transformando dados em soluções práticas.
 
 ---
 
@@ -27,18 +28,18 @@ Desenvolvimento de um sistema de inteligência artificial para apoio ao pré-dia
 
 ---
 
-### 🫁 **Modelo de Previsão de Câncer Pulmonar**
+### 📄 **WebScraping — Resoluções UPE (CONSUN/CEPE)**
 
-Sistema de machine learning para classificação de pacientes com potencial diagnóstico de câncer pulmonar.
+Automação completa para coleta, download, classificação e publicação das resoluções dos conselhos universitários da Universidade de Pernambuco.
 
-**Técnicas Utilizadas:**
-- Clusterização com K-Means para segmentação de pacientes
-- Classificação com Random Forest
-- Análise exploratória e visualização de dados
+**Destaques Técnicos:**
+- Scraping automatizado do site da UPE com Selenium para extração de ementas e links
+- Download paralelo de PDFs do Google Drive com ThreadPoolExecutor (4 threads simultâneas)
+- Classificação automática de ementas por categoria usando Google Gemini e Ollama (LLaMA 3) local
+- Cadastro e publicação automática no sistema interno via Selenium, incluindo upload de PDFs
+- Pipeline completo de validação: downloads, envios e integridade dos dados
 
-**Stack:** Python · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn
-
-🔗 [Ver Projeto](https://github.com/EmmanoelB03/ModeloCancerPulmonar)
+**Stack:** Python · Selenium · Pandas · Google Gemini · Ollama · ThreadPoolExecutor · python-dotenv
 
 ---
 
@@ -75,17 +76,18 @@ Aplicação web que transforma descrições de processos em texto para diagramas
 
 ---
 
-### 🚴 **FedCycle - Aprendizado Federado em Sistemas Embarcados**
+### 🚴 **FedCycle - Aprendizado Federado em Redes Heterogêneas**
+*Projeto de Pesquisa Científica - Universidade de Pernambuco (UPE)*
 
-Implementação em C++ focada em pesquisa e aplicações práticas de aprendizado federado em dispositivos IoT e sistemas embarcados.
+Arquitetura cíclica de Federated Learning baseada em destilação de conhecimento bidirecional, inspirada no algoritmo FedBKD. O projeto visa resolver a queda de desempenho em cenários com restrições severas de hardware (TinyML/ESP32) no processamento de dados locais descentralizados (Não-IID).
 
-**Características:**
-- Estrutura modular escrita inteiramente em C++
-- Preparado para ambientes de simulação IoT ou aplicações reais
-- Possibilidade de integração com sensores e redes diversas
-- Explora cenários de federated learning em dispositivos embarcados
+**Destaques Técnicos:**
+- **Analogia Coevolução:** Um servidor de alta capacidade (Professor) extrai características gerais e "ensina" o microcontrolador (Aluno). O ESP32 treina com sua vivência local e "ensina" de volta o servidor, mitigando o esquecimento catastrófico do modelo global.
+- **Privacidade com GANs (Data-Free):** Implementação de uma Rede Generativa Adversarial no servidor para sintetizar feature maps (vetores de 2048 atributos), permitindo destilação de conhecimento sem tráfego de dados reais.
+- **Destilação Bidirecional (KD):** Transferência de aprendizado Global → Local e Local → Global alinhando distribuições matemáticas através da Divergência Kullback-Leibler (KL).
+- **On-Device Training e TinyML:** Separação da arquitetura via ONNX com camada de representação congelada no cliente, permitindo retropropagação manual apenas na camada de classificação otimizada para a SRAM do ESP32 no simulador Wokwi.
 
-**Stack:** C++
+**Stack:** Python · PyTorch · C++ · TensorFlow Lite Micro · ONNX · IoT (ESP32/Wokwi)
 
 🔗 [Ver Projeto](https://github.com/EmmanoelB03/FedCycle)
 
@@ -138,19 +140,6 @@ Implementação em C++ focada em pesquisa e aplicações práticas de aprendizad
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmanoelB03&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelB03&layout=compact&theme=dracula&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EmmanoelB03&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 📫 Vamos Conectar!
 
 Estou sempre aberto a discussões sobre IA, Data Science, projetos colaborativos e novas oportunidades!
@@ -165,6 +154,3 @@ Estou sempre aberto a discussões sobre IA, Data Science, projetos colaborativos
   <img src="https://komarev.com/ghpvc/?username=EmmanoelB03&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
 </div>
 
-<p align="center">
-  <em>"A jornada de mil milhas começa com um único passo." - Lao Tzu</em>
-</p>
