@@ -105,37 +105,19 @@ Arquitetura cíclica de Federated Learning baseada em destilação de conhecimen
 ## 🛠️ Stack Tecnológica
 
 ### Linguagens de Programação
-<div>
-  <img src="https://skillicons.dev/icons?i=python,typescript,java,cs,c,cpp" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,typescript,java,cs,c,cpp" />
 
 ### Desenvolvimento Web
-<div>
-  <img src="https://skillicons.dev/icons?i=svelte,js,nodejs,html,css" />
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</div>
+<img src="https://skillicons.dev/icons?i=svelte,js,nodejs,html,css" /> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 ### Data Science & Machine Learning
-<div>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-</div>
+<img src="https://skillicons.dev/icons?i=pytorch" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
 
 ### Banco de Dados
-<div>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</div>
+<img src="https://skillicons.dev/icons?i=postgres" />
 
 ### Automação & DevOps
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-</div>
+<img src="https://skillicons.dev/icons?i=docker,git,github" /> <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/-Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 
 ---
 
