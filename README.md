@@ -2,8 +2,6 @@
 
 **Estagiário em Ciência de Dados @CESAR | Engenharia da Computação — UPE**
 
-Recife, Pernambuco, Brasil
-
 Trabalho com Ciência de Dados, Machine Learning e automação de processos. Tenho interesse em Deep Learning, NLP, IA generativa e MLOps, especialmente no desenvolvimento de soluções de IA aplicadas à saúde com foco em privacidade de dados.
 
 ## Tecnologias
