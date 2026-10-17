@@ -1,6 +1,6 @@
 # Emmanoel Barbosa
 
-**Estagiário em Ciência de Dados | Engenharia da Computação — UPE**
+**Estagiário em Ciência de Dados @CESAR| Engenharia da Computação — UPE**
 
 Recife, Pernambuco, Brasil
 
