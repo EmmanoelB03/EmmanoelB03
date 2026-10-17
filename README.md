@@ -6,7 +6,7 @@ Trabalho com Ciência de Dados, Machine Learning e automação de processos. Ten
 
 ## Tecnologias
 
-**Linguagens e dados**
+**Linguagens**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,postgres" />
